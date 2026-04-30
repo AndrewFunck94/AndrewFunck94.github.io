@@ -55,7 +55,7 @@ Jump to [Research](#research), [News and Events](#news-and-events) or [Teaching 
 # Teaching Experience
 **HEC Paris** — [*Students' evaluations*](https://drive.google.com/drive/folders/1y1Hb7s-5KEZCyu_Zj-T-C3xrAiLFJZZ8?usp=sharing)  
 - Lecturer, Microeconomics (Grande École) — 2022, 2024
-  - [*2024 Best Course Teacher*](https://drive.google.com/file/d/1_OWx23ZLVYn62iqL_2LX9QCrOO09yYyR/view?usp=sharing)  
+  - [*2024 Best Microeconomics Teacher*](https://drive.google.com/file/d/1_OWx23ZLVYn62iqL_2LX9QCrOO09yYyR/view?usp=sharing)  
 - TA, Managerial Economics (MBA) — 2025, 2026  
 - TA, Microeconomics (Grande École) — 2023, 2024  
 <br>
