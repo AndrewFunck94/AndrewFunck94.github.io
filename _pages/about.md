@@ -29,7 +29,7 @@ Jump to [Research](#research), [News and Events](#news-and-events) or [Teaching 
 - "Accuracy and uncertainty in venture selection: the roles of experience and complexity" with Thomas Åstebro and Francesco Giordano ***Draft out soon!***.
 
 ## Work in Progress
-- "Employment Creation through Psychological Entrepreneurship Training" with Thomas Åstebro, Marcos Balmaceda, Bruno Crépon, Mona Mensman, Naja Pape and Mathis Schulte ***RCT on-going***.
+- "Employment Creation through Psychological Entrepreneurship Training" with Thomas Åstebro, Marcos Balmaceda, Bruno Crépon, Mona Mensman, Naja Pape and Mathis Schulte ***RCT on-going in collaboration with France Travail***.
 - "The impact of role models on gender stereotypical beliefs about educational choices." with Adam Altmejd, Thomas Åstebro, Mon Mensman, Ali Mohammadi and Karl Wennberg [***pre-registered RCT on-going***](https://www.socialscienceregistry.org/trials/10411).
 - "The Impact of Academic Accelerators on Startup Performance"
 
