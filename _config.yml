@@ -6,29 +6,21 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings
-locale                   : "en-US"
-title                    : "Julián Chitiva"
-title_separator          : "-"
-name                     : &name "Julián Chitiva"
-description              : &description "PhD Candidate @ HEC Paris"
-url                      : https://julianchitiva.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "julianchitiva/julianchitiva.github.io"
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "JC.JPG"
-  name             : #"Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : #"Earth"
-  employer         : #"Red Brick University"
-  uri              : # URL
-  email            : #"name.lastname@hec.edu" 
+  avatar           : "Andrew_Funck.JPG"
+  name             : "Andrew Funck"
+  bio              : "PhD Candidate @ HEC Paris"
+  location         : "Paris, France"
+
+  employer         : "HEC Paris"
+  employer_url     : "https://www.hec.edu"
+
+  email            : "andrew.funck@hec.edu"
+  linkedin         : "andrew-henry-aurelio-funck-792810198"
+  cv               : "files/Funck_Andrew_CV.pdf"
+
+  
+
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,7 +36,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"julianchitiva"
+  github           : #"AndrewFunck94"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +50,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  andrew-henry-aurelio-funck-792810198
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -83,13 +75,13 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
-# Site Settings
+#  Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -99,7 +91,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -117,7 +109,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : true     # change to true to hide the RSS feed in the footer
+  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -130,12 +122,13 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  # Social media default site image
+og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -302,6 +295,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -310,6 +304,7 @@ whitelist:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jemoji
 
 

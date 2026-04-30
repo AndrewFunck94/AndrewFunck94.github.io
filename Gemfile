@@ -9,3 +9,5 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+
+gem "liquid", "~> 4.0.4"

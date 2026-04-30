@@ -1,39 +1,42 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at [HEC Paris](https://www.hec.edu/en/faculty-research/faculty-departments/economics-and-decision-sciences). My research interest lie in microeconomic theory, game theory and social networks. I am particularly interested in the role of information and social structures in economic dynamics. Before starting my PhD I worked in consultancy developing mathematical models to solve industry and government problems in Colombia.
-<!--- Incluir un par de frases del trabajo en consultoria. Revisar Redaccion --->
+I am a 5th-year PhD candidate in Economics and Decision Sciences at [HEC Paris](https://www.hec.edu/en/faculty-research/faculty-departments/economics-and-decision-sciences), supervised by Prof. [Thomas Åstebro](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/ASTEBRO-Thomas). I am also a Research Fellow at the ION Management Science Lab in Paris and an external researcher at France Travail.
 
-You can reach me by email at julian [dot] chitiva [at] hec [dot] edu
+My research lies at the intersection of **Entrepreneurship and Innovation**, with a focus on the application of **AI to evaluate startup potential** in accelerator programs.
 
-I am one of the organizers of the [Junior Parisian Game Theory Seminar](https://sites.google.com/view/seminairetheoriedesjeux/junior-seminar-20242025) and the [HEC PhD Economics Conference](https://sites.google.com/view/hecon/home).
+In Spring 2026 I visited the Financial Markets Group at LSE, hosted by Prof [Juanita Gonzalez-Uribe](https://www.juanitagonzalez-uribe.net/). 
 
-Jump to [Research](#research), [News and Events](#news-and-events) or [Teaching Material](#teaching-material)
+I am one of the founders and organizers of the [HEC PhD Economics Conference](https://sites.google.com/view/hecon/home) and the [Natural Language in Economics Online Seminar](https://broadleaf-hibiscus-88e.notion.site/Natural-Language-in-Economics-Online-Seminar-7b75731a97c149139ed87d1a92afec8a?pvs=32).
+
+Jump to [Research](#research), [News and Events](#news-and-events) or [Teaching Experience](#teaching-material)
 
 <hr style="border:1px solid gray">
 
 # Research
+## Job Market Paper
+- Human vs AI in Startup Evaluation: Evidence from HEC Incubateur
+
+
 ## Working Papers
-- [Continuous Social Networks](https://arxiv.org/pdf/2407.11710) with Xavier Venel. Extended Abstract in WINE 2024.
+- Decomposing Venture Evaluation: Learning about Belief Formation with Thomas Åstebro and Francesco Giordano. *R&R Strategic Entrepreneurship Journal*
+- Accuracy and uncertainty in venture selection: the roles of experience and complexity with Thomas Åstebro and Francesco Giordano. *Draft coming soon!*
 
 
 ## Work in Progress
-- Platform-Induced Coordination with Penélope Hernández
-- Behavioral Model for Decision-Making with Penélope Hernández and Maria Murgui.
-
-## Conference Publications 
-- [Visual representations to evaluate the heterogeneous effects of urban parks restoration on crime](https://dl.acm.org/doi/10.1145/3460112.3471969) in ACM SIGCAS Conference on Computing and Sustainable Societies, COMPASS ’21 (2021) with Douglass Newball, Paula Rodriguez-Diaz, Hamadys Benavides, Mateo Dulce and Álvaro Riascos. 
+- Employment Creation through Psychological-oriented Entrepreneurship Training with Thomas Åstebro, Bruno Crépon, Mona Mensmann, Andrew Funck, & Mathis Schulte *Pilot on-going*
+- The impact of role models on gender stereotypical beliefs about educational choices with Aleksandar Altmejd, Thomas Åstebro, Andrew Funck, Mona Mensmann, Ali Mohammadi, Karl Wennberg. *Pilot on-going*
+- The Impact of Academic Accelerators on Startup Performance
 
 ## Other Publications
 - [Detección de Anomalías y Poder de Mercado en el Sector Eléctrico Colombiano](https://ideas.repec.org/p/bdr/borrec/1217.html) at Borradores de Economia 1217, Banco de la República de Colombia. (2022) with Álvaro Riascos and Carlos Salazar. Summary: Market Share and anomalies detection in the electricity market in Colombia. Available in Spanish.
-- [Esquema de garantías para la subasta de largo plazo de FNCER](https://quantil.co/wp-content/uploads/2023/02/Esquema-de-Garantias-para-la-Subasta-de-Largo-Plazo-de-FNCER.pdf) in Boletín de matemáticas aplicadas a la industria, Quantil (2019) with Diego Jara, Erick Translateur, and Germán González. Summary: Design the guarantee schemes for the long run renewable energy auction in Colombia. Available in Spanish.
-- [Implementable Mechanisms for discrete utility functions, a solution using Tropical Geometry](https://ideas.repec.org/p/col/000089/017485.html) in Documentos CEDE, Universidad de los Andes - CEDE (2019)
+
 
 <hr style="border:1px solid gray">
 
