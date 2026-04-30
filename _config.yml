@@ -6,6 +6,7 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+
 author:
   avatar           : "Andrew_Funck.JPG"
   name             : "Andrew Funck"
@@ -17,9 +18,9 @@ author:
 
   email            : "andrew.funck@hec.edu"
   linkedin         : "andrew-henry-aurelio-funck-792810198"
-  cv               : "files/Funck_Andrew_CV.pdf"
+  cv               : "files/CV_Funck_05_26.pdf"
 
-  
+
 
 
   # Academic websites
