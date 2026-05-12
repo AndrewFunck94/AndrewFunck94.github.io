@@ -30,7 +30,7 @@ Jump to [Research](#research), [News and Events](#news-and-events) or [Teaching 
 
 ## Work in Progress
 - "Employment Creation through Psychological Entrepreneurship Training" with Thomas Åstebro, Marcos Balmaceda, Bruno Crépon, Mona Mensman, Naja Pape and Mathis Schulte ***RCT on-going in collaboration with France Travail***.
-- "The impact of role models on gender stereotypical beliefs about educational choices." with Adam Altmejd, Thomas Åstebro, Mon Mensman, Ali Mohammadi and Karl Wennberg [***pre-registered RCT on-going***](https://www.socialscienceregistry.org/trials/10411).
+- "Do gender-sterotypical beliefs make women shy away from STEM?" with Adam Altmejd, Thomas Åstebro, Mon Mensman, Ali Mohammadi and Karl Wennberg [***pre-registered RCT on-going***](https://www.socialscienceregistry.org/trials/10411).
 - "The Impact of Academic Accelerators on Startup Performance"
 
 ## Pre-PhD Publications
@@ -44,7 +44,7 @@ Jump to [Research](#research), [News and Events](#news-and-events) or [Teaching 
 - Every two weeks we have the [Natural Language in Economics Online Seminar](https://broadleaf-hibiscus-88e.notion.site/Natural-Language-in-Economics-Online-Seminar-7b75731a97c149139ed87d1a92afec8a?pvs=32) where students and postdocs can present their work on topics that are broadly related to language in the context of economics, with a theoretical, methodological and/or empirical focus. 
 
 ## Seminars and Conferences
-- **2026:** DRUID26(Upcoming), CCC 2026 Doctoral Conference (Upcoming), BSE Summer Forum: Economics of Science and Innovation (Upcoming), AI Plus Management Doctoral Consortium (Upcoming), Frankfurt School of Finance and Management, Workshop on Science Funding and Non-Market Allocation Mechanisms
+- **2026:** DRUID26(Upcoming), CCC 2026 Doctoral Conference (Upcoming), BSE Summer Forum: Economics of Science and Innovation (Upcoming), AI Plus Management Doctoral Consortium, Frankfurt School of Finance and Management, Workshop on Science Funding and Non-Market Allocation Mechanisms
 - **2025:** Tor Vergata Ph.D. Conference in Economics, NBER Innovation Research Boot Camp,Bayesian Entrepreneurship Conference.
 - **2024:** Foundations of Utility and Risk,  CREST PhD Brownbag Seminar, “La Strada” Bocconi PhD Seminar.
 - **2022:** Field Experiments in Economics and Business. 
