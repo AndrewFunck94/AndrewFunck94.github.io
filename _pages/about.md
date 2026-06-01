@@ -26,11 +26,13 @@ Jump to [Research](#research), [News and Events](#news-and-events) or [Teaching 
 
 ## Working Papers
 - "Decomposing Venture Evaluation: Learning about Belief Formation" with Thomas Åstebro and Francesco Giordano ***R&R Strategic Entrepreneurship Journal***
-- "Accuracy and uncertainty in venture selection: the roles of experience and complexity" with Thomas Åstebro and Francesco Giordano ***Draft out soon!***.
+- "Cognitive complexity, expertise and prediction accuracy in venture selection" with Thomas Åstebro and Francesco Giordano  
+  <a href="/files/Judging_Ventures_slides_BSF.pdf" class="btn btn--primary btn--small" target="_blank" rel="noopener"><i class="far fa-file"></i> Slides</a> <a href="/files/Judging_Ventures_BSF.pdf" class="btn btn--info btn--small" target="_blank" rel="noopener"><i class="far fa-file-alt"></i> Draft</a>
+
 
 ## Work in Progress
-- "Employment Creation through Psychological Entrepreneurship Training" with Thomas Åstebro, Marcos Balmaceda, Bruno Crépon, Mona Mensman, Naja Pape and Mathis Schulte ***RCT on-going in collaboration with France Travail***.
-- "Do gender-sterotypical beliefs make women shy away from STEM?" with Adam Altmejd, Thomas Åstebro, Mon Mensman, Ali Mohammadi and Karl Wennberg [***pre-registered RCT on-going***](https://www.socialscienceregistry.org/trials/10411).
+- "Employment Creation through Psychological Entrepreneurship Training" with Thomas Åstebro, Marcos Balmaceda, Bruno Crépon, Mona Mensman, Naja Pape and Mathis Schulte ***RCT on-going in collaboration wtih France Travail***.
+- "The impact of role models on gender stereotypical beliefs about educational choices." with Adam Altmejd, Thomas Åstebro, Mona Mensman, Ali Mohammadi and Karl Wennberg [***pre-registered RCT on-going***](https://www.socialscienceregistry.org/trials/10411).
 - "The Impact of Academic Accelerators on Startup Performance"
 
 ## Pre-PhD Publications
@@ -44,7 +46,7 @@ Jump to [Research](#research), [News and Events](#news-and-events) or [Teaching 
 - Every two weeks we have the [Natural Language in Economics Online Seminar](https://broadleaf-hibiscus-88e.notion.site/Natural-Language-in-Economics-Online-Seminar-7b75731a97c149139ed87d1a92afec8a?pvs=32) where students and postdocs can present their work on topics that are broadly related to language in the context of economics, with a theoretical, methodological and/or empirical focus. 
 
 ## Seminars and Conferences
-- **2026:** DRUID26(Upcoming), CCC 2026 Doctoral Conference (Upcoming), BSE Summer Forum: Economics of Science and Innovation (Upcoming), AI Plus Management Doctoral Consortium, Frankfurt School of Finance and Management, Workshop on Science Funding and Non-Market Allocation Mechanisms
+- **2026:** DRUID26(Upcoming), CCC 2026 Doctoral Conference (Upcoming), BSE Summer Forum: Economics of Science and Innovation, AI Plus Management Doctoral Consortium, Frankfurt School of Finance and Management, Workshop on Science Funding and Non-Market Allocation Mechanisms
 - **2025:** Tor Vergata Ph.D. Conference in Economics, NBER Innovation Research Boot Camp,Bayesian Entrepreneurship Conference.
 - **2024:** Foundations of Utility and Risk,  CREST PhD Brownbag Seminar, “La Strada” Bocconi PhD Seminar.
 - **2022:** Field Experiments in Economics and Business. 
@@ -55,7 +57,7 @@ Jump to [Research](#research), [News and Events](#news-and-events) or [Teaching 
 # Teaching Experience
 **HEC Paris** — [*Students' evaluations*](https://drive.google.com/drive/folders/1y1Hb7s-5KEZCyu_Zj-T-C3xrAiLFJZZ8?usp=sharing)  
 - Lecturer, Microeconomics (Grande École) — 2022, 2024
-  - [*2024 Best Microeconomics Teacher*](https://drive.google.com/file/d/1_OWx23ZLVYn62iqL_2LX9QCrOO09yYyR/view?usp=sharing)  
+  - *2024 Best Course Teacher*  
 - TA, Managerial Economics (MBA) — 2025, 2026  
 - TA, Microeconomics (Grande École) — 2023, 2024  
 <br>
