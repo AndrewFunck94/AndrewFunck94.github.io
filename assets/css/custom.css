@@ -8,6 +8,10 @@
    -------------------------------------------------------------------------- */
 
 /* Tighter horizontal margins on each nav link */
+.greedy-nav .visible-links {
+  float: left;
+}
+
 .greedy-nav a {
   margin: 0 0.55rem;
   font-size: 0.875em;
