@@ -76,6 +76,12 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# Site identity
+title                    : "Andrew Funck"
+description              : "PhD Candidate in Economics and Decision Sciences at HEC Paris. Research on entrepreneurship, innovation, and AI evaluation of startups."
+url                      : "https://andrewfunck94.github.io"
+
+
 #  Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
