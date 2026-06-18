@@ -8,7 +8,8 @@ author_profile: true
 - Lecturer, Microeconomics (Grande École) — 2022, 2024
   - *2024 Best Course Teacher*  
 - TA, Managerial Economics (MBA) — 2025, 2026  
-- TA, Microeconomics (Grande École) — 2023, 2024  
+- TA, Microeconomics (Grande École) — 2023, 2024
+  - *2024 Best Course TA*    
 <br>
 
 **Politecnico di Milano** — [*Students' evaluations*](https://drive.google.com/drive/folders/1jIOzFhcnwFljxpENoW8u64IUI3cV7Jh2?usp=sharing)  
