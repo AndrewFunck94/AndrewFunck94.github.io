@@ -1,0 +1,70 @@
+/* ==========================================================================
+   Custom overrides — Andrew Funck personal website
+   ========================================================================== */
+
+
+/* --------------------------------------------------------------------------
+   1. NAVIGATION — compact margins so all 4 tabs fit without a hamburger
+   -------------------------------------------------------------------------- */
+
+/* Tighter horizontal margins on each nav link */
+.greedy-nav a {
+  margin: 0 0.55rem;
+  font-size: 0.875em;
+  font-weight: 600;
+}
+
+/* Keep the first-child (site-title) left-flush if it ever appears */
+.greedy-nav .visible-links li:first-child a {
+  margin-left: 0;
+}
+
+/* Slight shadow instead of flat border — matches page content depth */
+.masthead {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07);
+}
+
+
+/* --------------------------------------------------------------------------
+   2. BUTTONS — make <button> and <a> render at exactly the same height
+   -------------------------------------------------------------------------- */
+
+/* Browsers apply different defaults (line-height, box model) to <button>
+   vs <a>. Force both to be identical when carrying .btn classes. */
+button.btn,
+button.btn.btn--small,
+a.btn.btn--small {
+  line-height: 1.5;
+  box-sizing: border-box;
+  padding: 0.5em 1em;
+  vertical-align: middle;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+button.btn.btn--small,
+a.btn.btn--small {
+  font-size: 0.6875em;   /* $type-size-7, same for both element types */
+}
+
+.btn.is-open {
+  box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.12);
+}
+
+
+/* --------------------------------------------------------------------------
+   3. ABSTRACT BOX — consistent style, defined once globally
+   -------------------------------------------------------------------------- */
+
+.abstract-box {
+  display: none;
+  margin: 0.5em 0 1.2em;
+  padding: 0.85em 1.1em;
+  border-left: 3px solid #c5d0dc;
+  background: #f6f8fa;
+  border-radius: 4px;
+  font-size: 0.875em;
+  line-height: 1.6;
+  text-align: justify;
+  color: #4a5260;
+}
