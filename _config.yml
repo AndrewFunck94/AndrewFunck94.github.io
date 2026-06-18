@@ -7,7 +7,7 @@
 # server process.
 
 
-author:
+author:ur
   avatar           : "Andrew_Funck.jpg"
   name             : "Andrew Funck"
   bio              : "PhD Candidate @ HEC Paris"
@@ -79,7 +79,7 @@ publication_category:
 # Site identity
 title                    : "Andrew Funck"
 description              : "PhD Candidate in Economics and Decision Sciences at HEC Paris. Research on entrepreneurship, innovation, and AI evaluation of startups."
-url                      : "https://andrewfunck94.github.io"
+url                      : "https://andrewfunck.com"
 
 
 #  Site Settings
