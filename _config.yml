@@ -55,7 +55,7 @@ author:
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
-  soundcloud       : # Username
+  soundcloud       : # Usernameg
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
@@ -115,7 +115,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : VM5fPTFBivTBg5PxLkWpsui5tiWKzjZ7Bz0-k_V34yc
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
