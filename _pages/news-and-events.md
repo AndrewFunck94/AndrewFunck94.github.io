@@ -4,7 +4,7 @@ title: "News and Events"
 author_profile: true
 ---
 
-- Next June we will have the 2026 edition of the [HEC PhD Economics Conference](https://sites.google.com/view/hecon/home). Visit our [website](https://sites.google.com/view/hecon/home) for more information. 
+- In June we hosted the 4th edition of the [HEC PhD Economics Conference](https://sites.google.com/view/hecon/home). Visit our [website](https://sites.google.com/view/hecon/home) for more information. 
 - Every two weeks we have the [Natural Language in Economics Online Seminar](https://broadleaf-hibiscus-88e.notion.site/Natural-Language-in-Economics-Online-Seminar-7b75731a97c149139ed87d1a92afec8a?pvs=32) where students and postdocs can present their work on topics that are broadly related to language in the context of economics, with a theoretical, methodological and/or empirical focus. 
 
 ## Seminars and Conferences
