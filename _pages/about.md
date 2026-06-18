@@ -17,3 +17,6 @@ In Spring 2026 I visited the Financial Markets Group at LSE, hosted by Prof [Jua
 I am one of the founders and organizers of the [HEC PhD Economics Conference](https://sites.google.com/view/hecon/home) and the [Natural Language in Economics Online Seminar](https://broadleaf-hibiscus-88e.notion.site/Natural-Language-in-Economics-Online-Seminar-7b75731a97c149139ed87d1a92afec8a?pvs=32).
 
 **I am on the 2026/2027 academic job market.**
+
+<i class="fas fa-fw fa-envelope"></i> [andrew.funck@hec.edu](mailto:andrew.funck@hec.edu) &nbsp;&nbsp; <i class="fa-solid fa-file-lines fa-fw"></i> [CV](/files/CV_Funck_05_26.pdf)
+
