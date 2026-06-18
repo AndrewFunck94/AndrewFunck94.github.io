@@ -18,5 +18,5 @@ I am one of the founders and organizers of the [HEC PhD Economics Conference](ht
 
 **I am on the 2026/2027 academic job market.**
 
-<i class="fas fa-fw fa-envelope"></i> [andrew.funck@hec.edu](mailto:andrew.funck@hec.edu) &nbsp;&nbsp; <i class="fa-solid fa-file-lines fa-fw"></i> [CV](/files/CV_Funck_05_26.pdf)
+<i class="fas fa-fw fa-envelope"></i> [andrew.funck@hec.edu](mailto:andrew.funck@hec.edu) &nbsp;&nbsp; <i class="fa-solid fa-file-lines fa-fw"></i> [CV](/files/CV_Funck_06_26.pdf)
 
