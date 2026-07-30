@@ -16,20 +16,19 @@
           animation-delay: 0.15s;
   z-index: 20;
 
-  &__inner-wrap {
+&__inner-wrap {
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
-
+    display: flex;
+    align-items: center;
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
-
     nav {
       z-index: 10;
     }
-
     a {
       text-decoration: none;
     }
@@ -37,12 +36,15 @@
 }
 
 .masthead__menu {
-
+  display: flex;
+  align-items: center;
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
+    display: flex;
+    align-items: center;
   }
 }
 
