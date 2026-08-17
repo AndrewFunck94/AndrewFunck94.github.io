@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a 5th-year PhD candidate in Economics and Decision Sciences at [HEC Paris](https://www.hec.edu/en/faculty-research/faculty-departments/economics-and-decision-sciences), supervised by Prof. [Thomas Åstebro](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/ASTEBRO-Thomas). I am also a Research Fellow at the ION Management Science Lab in Paris and an external researcher at France Travail.
+I am a PhD candidate in Economics and Decision Sciences at [HEC Paris](https://www.hec.edu/en/faculty-research/faculty-departments/economics-and-decision-sciences), supervised by Prof. [Thomas Åstebro](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/ASTEBRO-Thomas). I am also a Research Fellow at the ION Management Science Lab in Paris and an external researcher at France Travail.
 
 My research lies at the intersection of **Entrepreneurship and Innovation**, with a focus on the application of **AI to evaluate startup potential** in accelerator programs.  I also run **large-scale field experiments (RCTs)** on entrepreneurship training and on the formation of educational and career choices.
 
