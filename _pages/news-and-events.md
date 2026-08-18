@@ -1,6 +1,6 @@
 ---
-permalink: /news-and-events/
-title: "News and Events"
+permalink: /conferences/
+title: "Conferences"
 author_profile: true
 ---
 
