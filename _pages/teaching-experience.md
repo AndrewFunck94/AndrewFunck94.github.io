@@ -1,6 +1,6 @@
 ---
-permalink: /teaching-experience/
-title: "Teaching Experience"
+permalink: /teaching/
+title: "Teaching"
 author_profile: true
 ---
 
