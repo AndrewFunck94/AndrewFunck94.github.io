@@ -4,8 +4,8 @@ title: "Research"
 author_profile: true
 ---
 
-  <p><a href="/files/Research_Statement.pdf" target="_blank" rel="noopener"><i class="far fa-file-alt"></i>Research Statement</a></p>
-  
+<p><a href="/files/Research_Statement.pdf" target="_blank" rel="noopener">Research Statement</a></p>
+
 <script>
 function toggleAbstract(btn, id){
   var box = document.getElementById(id);
