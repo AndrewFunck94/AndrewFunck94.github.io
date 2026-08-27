@@ -4,6 +4,10 @@ title: "Teaching"
 author_profile: true
 ---
 
+<div class="notice--info" markdown="1">
+📄 **[Teaching Statement](/files/Teaching_Statement.pdf)**
+</div>
+
 **HEC Paris** — [*Students' evaluations*](https://drive.google.com/drive/folders/1y1Hb7s-5KEZCyu_Zj-T-C3xrAiLFJZZ8?usp=sharing)  
 - Lecturer, Microeconomics (Grande École) — 2022, 2024
   - *2024 Best Course Teacher*  
