@@ -4,9 +4,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-<div class="notice--info" markdown="1">
-📄 **[Teaching Statement](/files/Teaching_Statement.pdf)**
-</div>
+  <p><a href="/files/Teaching_Statement.pdf" target="_blank" rel="noopener"><i class="far fa-file-alt"></i> Teaching Statement</a></p>
 
 **HEC Paris** — [*Students' evaluations*](https://drive.google.com/drive/folders/1y1Hb7s-5KEZCyu_Zj-T-C3xrAiLFJZZ8?usp=sharing)  
 - Lecturer, Microeconomics (Grande École) — 2022, 2024
