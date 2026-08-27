@@ -4,6 +4,10 @@ title: "Research"
 author_profile: true
 ---
 
+<div class="notice--info" markdown="1">
+📄 **[Research Statement](/files/Research_Statement.pdf)**
+</div>
+
 <script>
 function toggleAbstract(btn, id){
   var box = document.getElementById(id);
