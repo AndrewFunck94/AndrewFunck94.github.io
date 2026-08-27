@@ -4,10 +4,8 @@ title: "Research"
 author_profile: true
 ---
 
-<div class="notice--info" markdown="1">
-📄 **[Research Statement](/files/Research_Statement.pdf)**
-</div>
-
+  <p><a href="/files/Research_Statement.pdf" target="_blank" rel="noopener"><i class="far fa-file-alt"></i>Research Statement</a></p>
+  
 <script>
 function toggleAbstract(btn, id){
   var box = document.getElementById(id);
@@ -18,7 +16,7 @@ function toggleAbstract(btn, id){
 </script>
 
 ## Job Market Paper
-- "Human vs. AI in Startup Evaluation: Evidence from an Early-Stage Accelerator" ***Draft out soon!***
+- "Human vs. AI in Startup Evaluation: Evidence from an Early-Stage Accelerator" ***Draft upon request***
   <div class="paper-buttons" style="margin-top:.4rem"><button class="btn btn--inverse btn--small" onclick="toggleAbstract(this,'abs-humanai')"><i class="fas fa-align-left"></i> Abstract</button></div>
   <div id="abs-humanai" class="abstract-box">Organizations that screen early-stage ventures increasingly draw on artificial intelligence to inform or substitute for expert human judgment, yet little is known about why algorithmic and human assessments diverge. I develop a Bayesian-learning framework in which an evaluator's assessment combines a prior belief about venture quality with a signal extracted from available evidence, weighted by the evaluator's relative confidence in each. The framework implies that if artificial intelligence processes information more precisely, relative to its prior knowledge, than humans, its evaluations should respond more to venture-specific evidence and rely less on priors. I test this using the population of applications to a French startup accelerator, comparing scores assigned by expert human judges on 15 business criteria to counterfactual scores generated for the same applications by a large language model under a zero-shot protocol replicating the human grading instructions. Consistent with the framework, AI grades are systematically more responsive than human grades to application content, especially for negative information. Linking scores to venture survival, employment, and capital raised, I find AI scores are at least as strongly associated with performance as human scores. These results are robust to prompting strategy and look-ahead bias but sensitive to model choice: newer, more capable models converge toward human evaluative patterns, with no gain in their association with outcomes.</div>
 
