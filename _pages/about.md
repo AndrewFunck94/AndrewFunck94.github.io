@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Welcome!"
+seo_title: "Andrew Funck — PhD Candidate in Economics, HEC Paris"
+description: "Academic website of Andrew Funck, PhD candidate in Economics and Decision Sciences at HEC Paris. Research on entrepreneurship, innovation, and AI in venture evaluation."
 author_profile: true
 redirect_from: 
   - /about/
